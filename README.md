@@ -1,4 +1,5 @@
- Olá  eu sou Crystian Ediez Galdino, estou no 4/4 período da faculdade de Análise e Desenvolvimento de Sistemas.
+ <div align="center">Olá  eu sou Crystian Ediez Galdino, estou no 4/4 período da faculdade de Análise e Desenvolvimento de Sistemas.
+ <br>
  Tenho 1 ano e 3 meses de experiência como programador, trabalhei com as seguintes linguagens :
  </div>
   <div style="display: inline_block" align="center"><br>
