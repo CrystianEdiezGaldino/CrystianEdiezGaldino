@@ -2,7 +2,7 @@
  <br>
   Estou disponível para o mercado de trabalho, Entre em contato clicando nos botões Linkedin ou E-mail 
   <br>
- Tenho 1 ano e 3 meses de experiência como programador, trabalhei com as seguintes linguagens :
+ Tenho 1 ano e 7 meses de experiência como programador, trabalhei com as seguintes linguagens :
  </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Crys-unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
