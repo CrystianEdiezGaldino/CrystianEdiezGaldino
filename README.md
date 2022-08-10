@@ -32,5 +32,5 @@
    <br>
 
  
-   ![alt text](https://github.com/CrystianEdiezGaldino/CrystianEdiezGaldino/blob/main/cv.gif)
+   ![alt text](https://github.com/CrystianEdiezGaldino/CrystianEdiezGaldino/blob/main/cv.png)
  
