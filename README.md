@@ -2,7 +2,7 @@
  <br>
   Estou disponível para o mercado de trabalho, Entre em contato clicando nos botões Linkedin ou E-mail 
   <br>
- Sou Desenvolvedor Júnior Tenho 2 ano e 3 meses de experiência como programador, trabalhei com as seguintes linguagens sendo flutter a minha principal:
+   Minha experiência envolve o trabalho com diversas linguagens, sendo o Flutter a principal delas:
  </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Crys-unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
