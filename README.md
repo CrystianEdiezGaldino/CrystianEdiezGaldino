@@ -1,4 +1,4 @@
- <div align="center">Olá  eu sou Crystian Ediez Galdino, estou no 4/4 período da faculdade de Análise e Desenvolvimento de Sistemas.
+ <div align="center">Olá, sou Crystian Ediez Galdino, natural de Curitiba. Formado em Análise e Desenvolvimento de Sistemas, com mais de 2 anos de experiência. Atuo como Desenvolvedor Mobile em Dart/FLUTTER.
  <br>
   Estou disponível para o mercado de trabalho, Entre em contato clicando nos botões Linkedin ou E-mail 
   <br>
@@ -32,5 +32,5 @@
    <br>
 
  
-   ![alt text](https://github.com/CrystianEdiezGaldino/CrystianEdiezGaldino/blob/main/cv.png)
+   ![alt text](https://github.com/CrystianEdiezGaldino/CrystianEdiezGaldino/blob/main/CVCrystian.png)
  
