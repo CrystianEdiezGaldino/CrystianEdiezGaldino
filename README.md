@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/crystian-galdino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>  </div>  </div>
    <br>
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-    <br>
+
    ![alt text](https://github.com/CrystianEdiezGaldino/CrystianEdiezGaldino/blob/main/CVCrystian.png)
 
